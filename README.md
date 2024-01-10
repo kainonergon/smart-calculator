@@ -4,7 +4,7 @@
 Smart calculator that works with big integers and variables.
 This is a console program that performs integer calculations.
 You can use +, -, *, /, ^ and parentheses. Numbers can be arbitrary big.
-The project was done as an assignment for JetBrains Acaremy (https://hyperskill.org/projects/88).
+The project was done as an assignment for JetBrains Academy (https://hyperskill.org/projects/88).
 
 ## Usage
 
